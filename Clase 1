@@ -14,3 +14,22 @@
 	<footer>pié de página</footer>
 </body>
 </html>
+
+
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+	background-color: aquamarine;
+	border: solid 2px green;
+}
+
+main{
+	padding: 5em 0;
+	border: solid;
+}
