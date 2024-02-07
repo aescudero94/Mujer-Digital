@@ -1,0 +1,16 @@
+‹!DOCTYPE html>
+<html lang="en">
+‹head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Document</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head> 
+<body>
+	<header>Header para navegación</header>
+	<main>Parte main = principal de una página</main>
+	<footer>pié de página</footer>
+</body>
+</html>
